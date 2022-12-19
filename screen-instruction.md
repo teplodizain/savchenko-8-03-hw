@@ -15,4 +15,4 @@
 ### Задание 1
 
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Скриншот-1](https://github.com/teplodizain/10.1.-Keepalived-vrrp/blob/main/нода%202.png)
